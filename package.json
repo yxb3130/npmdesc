@@ -1,5 +1,8 @@
 {
-    "name":"npmdesc",
+    "name":"npmdesc2test",
+    "author": {
+       "name": "yxb3130"
+    },
     "version": "0.0.1",
     "main": "npmdesc.js",
     "repository": {
